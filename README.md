@@ -55,19 +55,3 @@ gcc -Wall -Wextra -std=c11 *.c -o demo && ./demo
 
 Open `data/sample-telemetry.jsonl` to inspect representative console output. This is
 useful when validating your hardware wiring or cloud logging pipeline.
-
-## Additional Notes (Legacy Content)
-
-# Circuit Design and Simulation: Electronic & Microcontroller
-
-- Course: Circuit Design and Simulation: Electronic & Microcontroller
-- Author: Ashraf S A AlMadhoun
-- Link: https://www.udemy.com/course/circuit-design-simulation-microcontroller-and-electronics-simulation/?couponCode=JULYMAXDICOUNT
-
-## Overview
-
-Design circuits and simulate microcontroller-driven systems before hardware.
-
-## Purchase With Discount
-
-Enroll using the link above to get a discounted price and validate designs virtually.
